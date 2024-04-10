@@ -1,0 +1,13 @@
+.row {
+   width: 30%;
+   padding-left: 2%;
+   padding-top: 2%;
+}
+
+.erro{
+   color: red;
+}
+
+.sucess{
+   color:green;
+}
